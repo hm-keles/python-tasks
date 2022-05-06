@@ -12,8 +12,8 @@ def relation_to_luke(name) :
         return "Luke, I am your sister."
     elif name == "Han" :
         return "Luke, I am your brother in law."
-        
-     
+
+
 print(relation_to_luke("Darth Vader"))
 print(relation_to_luke("Leia"))
 print(relation_to_luke("Han"))
